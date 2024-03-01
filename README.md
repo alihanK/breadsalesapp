@@ -1,4 +1,4 @@
-# breadsalesapp
+# Breadsalesapp
 Bread sales App with FLUTTER 
 
 ![breadappintropage](https://github.com/alihanK/breadsalesapp/assets/82571528/a254a992-4ef6-41f3-830d-f21a9de2395e)
